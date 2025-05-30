@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": ["src/main/java"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+      "javafx-sdk-24.0.1/lib/*.jar",   // your JavaFX SDK jars
+      "lib/**/*.jar"                   // any other jars in your lib folder
+    ],
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+  }
+  

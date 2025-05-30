@@ -1,0 +1,17 @@
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\config\AuditingConfig.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\repository\TodoRepository.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\service\TodoService.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\controller\DashboardController.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\model\TodoList.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\model\BaseEntity.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\config\WebConfig.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\repository\TodoListRepository.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\exception\GlobalExceptionHandler.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\controller\TodoListController.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\controller\TodoController.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\exception\ResourceNotFoundException.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\service\TodoListService.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\dto\DashboardDto.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\dto\TodoDto.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\model\Todo.java
+C:\Users\alotaibiab\Desktop\todo-app-backend\src\main\java\com\todoapp\TodoApplication.java
